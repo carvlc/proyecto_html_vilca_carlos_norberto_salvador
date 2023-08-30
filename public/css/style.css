@@ -13,10 +13,6 @@ nav{
     color:#116A7B;
     font-size: 1.5rem;
 }
-.imt{
-    height: 200px;
-    width: auto;
-}
 
 h1{
     color:#102C57;
@@ -29,10 +25,18 @@ p{
     text-decoration: none;
     color: #fff;
 }
-.title{
-    color: #102C57;
+.titulo-1{
+    color: #116A7B;
+    font-size: 3rem;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
 }
-.feature{
+.texto-1{
+    color: #102C57;
+    font-size: 2rem;
+    letter-spacing: 3px;
+}
+.contenedor-main{
     background-color: #F8F0E5;
 }
 
@@ -40,8 +44,22 @@ p{
     border: none;
     background-color: #C2DEDC;
 }
-
-.btn{
+.img{
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.card-text{
+    font-size: 1.2rem;
+}
+.card-badge{
+    font-size: 1rem;
+}
+.valoracion{
+    font-size: 1.5rem;
+}
+.btn-tarjeta{
     background-color: #102C57;
     border-radius: 20px;
     color: white;
@@ -49,23 +67,26 @@ p{
     border: none;
 }
 
-.btn:hover{
+.btn-tarjeta:hover{
     background-color: #116A7B;
     color: #F8F0E5;
     font-weight: bold;
 }
 
-.form-control{
-    border-radius: 40px;
-}
-
 footer{
-    background-color: aquamarine;
+    background-color: #116A7B;
 }
-
-.faq{
+.footer-title{
+    color: #F8F0E5;
+    font-size: 1.2rem;
+}
+.footer-link{
     text-decoration: none;
-    color: #102C57;
+    color: #F8F0E5;
+    font-size: 1.2rem;
+}
+.footer-text{
+    color: #F8F0E5;
 }
 
 
