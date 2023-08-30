@@ -22,8 +22,9 @@ h1{
     color:#102C57;
 }
 p{
-    color:#102C57
+    color:#102C57;
 }
+
 .boton-sitios-interes{
     text-decoration: none;
     color: #fff;
@@ -32,13 +33,12 @@ p{
     color: #102C57;
 }
 .feature{
-    background-color: #DAC0A3;
+    background-color: #F8F0E5;
 }
 
 .card{
-    border-radius: 50px;
     border: none;
-    background-color: #F8F0E5;
+    background-color: #C2DEDC;
 }
 
 .btn{
@@ -67,3 +67,5 @@ footer{
     text-decoration: none;
     color: #102C57;
 }
+
+
