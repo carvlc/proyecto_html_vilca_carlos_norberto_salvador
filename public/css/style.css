@@ -1,0 +1,69 @@
+body{
+    background-color: #F8F0E5;
+}
+nav{
+    background-color: #C2DEDC;
+}
+.logo-nav{
+    color: #116A7B;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.text-nav{
+    color:#116A7B;
+    font-size: 1.5rem;
+}
+.imt{
+    height: 200px;
+    width: auto;
+}
+
+h1{
+    color:#102C57;
+}
+p{
+    color:#102C57
+}
+.boton-sitios-interes{
+    text-decoration: none;
+    color: #fff;
+}
+.title{
+    color: #102C57;
+}
+.feature{
+    background-color: #DAC0A3;
+}
+
+.card{
+    border-radius: 50px;
+    border: none;
+    background-color: #F8F0E5;
+}
+
+.btn{
+    background-color: #102C57;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+
+.btn:hover{
+    background-color: #116A7B;
+    color: #F8F0E5;
+    font-weight: bold;
+}
+
+.form-control{
+    border-radius: 40px;
+}
+
+footer{
+    background-color: aquamarine;
+}
+
+.faq{
+    text-decoration: none;
+    color: #102C57;
+}
